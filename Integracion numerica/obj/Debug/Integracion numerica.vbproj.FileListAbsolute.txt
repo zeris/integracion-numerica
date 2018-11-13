@@ -1,0 +1,16 @@
+c:\users\pc19\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+c:\users\pc19\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+c:\users\pc19\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+c:\users\pc19\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+c:\users\pc19\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\info.lundin.math.dll
+c:\users\pc19\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\Integracion numerica.vbprojResolveAssemblyReference.cache
+c:\users\pc19\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+c:\users\pc19\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+c:\users\pc19\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\Integracion numerica.vbproj.GenerateResource.Cache
+c:\users\pc19\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+c:\users\pc19\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+c:\users\pc19\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\PC19\Documents\Visual Studio 2015\Projects\Integracion numerica\Integracion numerica\bin\Debug\WindowsApplication1.exe.config
+C:\Users\PC19\Documents\Visual Studio 2015\Projects\Integracion numerica\Integracion numerica\obj\Debug\WindowsApplication1.exe
+C:\Users\PC19\Documents\Visual Studio 2015\Projects\Integracion numerica\Integracion numerica\obj\Debug\WindowsApplication1.xml
+C:\Users\PC19\Documents\Visual Studio 2015\Projects\Integracion numerica\Integracion numerica\obj\Debug\WindowsApplication1.pdb
